@@ -1,0 +1,14 @@
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Upcasting\Upcasting\Upcasting\bin\Debug\netcoreapp3.1\Upcasting.exe
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Upcasting\Upcasting\Upcasting\bin\Debug\netcoreapp3.1\Upcasting.deps.json
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Upcasting\Upcasting\Upcasting\bin\Debug\netcoreapp3.1\Upcasting.runtimeconfig.json
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Upcasting\Upcasting\Upcasting\bin\Debug\netcoreapp3.1\Upcasting.runtimeconfig.dev.json
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Upcasting\Upcasting\Upcasting\bin\Debug\netcoreapp3.1\Upcasting.dll
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Upcasting\Upcasting\Upcasting\bin\Debug\netcoreapp3.1\Upcasting.pdb
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Upcasting\Upcasting\Upcasting\obj\Debug\netcoreapp3.1\Upcasting.csproj.AssemblyReference.cache
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Upcasting\Upcasting\Upcasting\obj\Debug\netcoreapp3.1\Upcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Upcasting\Upcasting\Upcasting\obj\Debug\netcoreapp3.1\Upcasting.AssemblyInfoInputs.cache
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Upcasting\Upcasting\Upcasting\obj\Debug\netcoreapp3.1\Upcasting.AssemblyInfo.cs
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Upcasting\Upcasting\Upcasting\obj\Debug\netcoreapp3.1\Upcasting.csproj.CoreCompileInputs.cache
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Upcasting\Upcasting\Upcasting\obj\Debug\netcoreapp3.1\Upcasting.dll
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Upcasting\Upcasting\Upcasting\obj\Debug\netcoreapp3.1\Upcasting.pdb
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Upcasting\Upcasting\Upcasting\obj\Debug\netcoreapp3.1\Upcasting.genruntimeconfig.cache
